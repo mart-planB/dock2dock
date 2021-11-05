@@ -7,4 +7,8 @@
 # New 03
 # New 04
 # Git change to pull
+<<<<<<< Updated upstream
 # GIT make conflict
+=======
+# Local make conflict
+>>>>>>> Stashed changes
