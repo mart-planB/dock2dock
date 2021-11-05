@@ -12,3 +12,4 @@
 =======
 # Local make conflict
 >>>>>>> Stashed changes
+# GIT -> Conflict 2
